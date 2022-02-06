@@ -1,0 +1,171 @@
+{
+  "Monday_even": [
+    {"Materia1": "Electronica2",
+      "StartHour": "08:00",
+      "StopHour": "09:50"
+
+    },
+    {
+      "Materia1": "TeoriaCampului",
+      "StartHour": "14:00",
+      "StopHour": "15:50"
+
+
+    },
+    {
+      "Materia1": "ElectronicaDePutere",
+      "StartHour": "16:00",
+      "StopHour": "17:50"
+    }
+
+  ],
+
+  "Monday_odd": [
+
+     {"Materia1": "Electronica2",
+      "StartHour": "08:00",
+      "StopHour": "09:50"
+
+    },
+    {
+      "Materia1": "Electronica2",
+      "StartHour": "12:00",
+      "StopHour": "13:50"
+
+
+    },
+    {
+      "Materia1": "ElectronicaDePutere",
+      "StartHour": "16:00",
+      "StopHour": "17:50"
+    }
+
+  ],
+  "Tuesday_even": [
+    {"Materia1": "SimulareCirc",
+      "StartHour": "08:00",
+      "StopHour": "09:50"
+    },
+    {"Materia1": "TeoriaCampului",
+      "StartHour": "11:00",
+      "StopHour": "13:50"
+
+    },
+    {
+      "Materia1": "Masurari",
+      "StartHour": "14:00",
+      "StopHour": "15:50"
+
+
+    },
+    {
+      "Materia1": "MaterialeElectro",
+      "StartHour": "16:00",
+      "StopHour": "17:50"
+    }
+
+
+  ],
+  "Tuesday_odd": [
+    {
+      "Materia1": "TeoriaCampului",
+      "StartHour": "11:00",
+      "StopHour": "13:06"
+
+    },
+    {
+      "Materia1": "Masurari",
+      "StartHour": "14:00",
+      "StopHour": "15:50"
+
+
+    },
+    {
+      "Materia1": "MaterialeElectro",
+      "StartHour": "18:33",
+      "StopHour": "18:47"
+    }
+  ],
+  "Wednesday_even": [
+     {
+       "Materia1": "MaterialeElectro",
+      "StartHour": "08:00",
+      "StopHour": "10:50"
+
+    },
+    {
+      "Materia1": "Masurari",
+      "StartHour": "11:00",
+      "StopHour": "13:50"
+
+
+    },
+    {
+      "Materia1": "SistemeDigitale",
+      "StartHour": "16:00",
+      "StopHour": "17:50"
+    }
+  ],
+  "Wednesday_odd": [
+    {
+      "Materia1": "MaterialeElectro",
+      "StartHour": "08:00",
+      "StopHour": "10:50"
+    },
+    {
+      "Materia1": "Masurari",
+      "StartHour": "11:00",
+      "StopHour": "13:50"
+
+    }
+  ],
+  "Thursday_even": [
+    ],
+
+  "Thursday_odd": [
+    {
+      "Materia1": "TeoriaCampului",
+      "StartHour": "10:00",
+      "StopHour": "11:50"
+    }
+  ],
+  "Friday_even": [
+    {
+      "Materia1": "SistemeDigitale",
+      "StartHour": "08:00",
+      "StopHour": "09:50"
+
+    },
+    {
+      "Materia1": "ElectronicaDePutere",
+      "StartHour": "10:00",
+      "StopHour": "12:50"
+
+
+    },
+    {
+      "Materia1": "SimulareCirc",
+      "StartHour": "13:00",
+      "StopHour": "14:50"
+    }
+  ],
+  "Friday_odd": [
+    {
+      "Materia1": "SistemeDigitale",
+      "StartHour": "08:00",
+      "StopHour": "09:50"
+
+    },
+    {
+      "Materia1": "ElectronicaDePutere",
+      "StartHour": "10:00",
+      "StopHour": "12:39"
+
+
+    }
+  ]
+
+
+
+
+}
